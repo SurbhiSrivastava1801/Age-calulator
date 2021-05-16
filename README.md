@@ -5,6 +5,14 @@
         body {
             background-color: lightsalmon;
         }
+        </style>
+         <style type="text/css">
+        h1 {
+            text-align: center;
+            border-style: double;
+            border-width: 5px;
+        }
+    
     </style>
     
 </head>
